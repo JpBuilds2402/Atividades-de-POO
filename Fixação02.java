@@ -1,4 +1,6 @@
-/*2.Exercício de Conversão de Temperatura: Crie um programa que peça ao usuário para digitar uma temperatura em graus Celsius e converta-a para Fahrenheit. Em seguida, exiba o resultado na tela.*/
+/*2.Exercício de Conversão de Temperatura: 
+Crie um programa que peça ao usuário para digitar uma temperatura em graus Celsius e converta-a para Fahrenheit. 
+Em seguida, exiba o resultado na tela.*/
 import java.util.Locale;
 import java.util.Scanner;
 
