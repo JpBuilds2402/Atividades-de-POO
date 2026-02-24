@@ -1,4 +1,6 @@
-/*1.Exercício de Cálculo de Média: Crie um programa que solicite ao usuário três notas (números de ponto flutuante) e calcule a média aritmética das notas. Em seguida, exiba a média na tela.*/
+/*1.Exercício de Cálculo de Média: 
+Crie um programa que solicite ao usuário três notas (números de ponto flutuante) e calcule a média aritmética das notas. 
+Em seguida, exiba a média na tela.*/
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.ArrayList;
