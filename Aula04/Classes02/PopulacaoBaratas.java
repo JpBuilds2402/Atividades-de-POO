@@ -1,4 +1,4 @@
-package entidade1;
+package Classes02;
 import java.util.Random;
 
 public class PopulacaoBaratas {
