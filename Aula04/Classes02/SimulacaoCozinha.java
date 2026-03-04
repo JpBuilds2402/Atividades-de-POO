@@ -1,6 +1,6 @@
 import java.util.Locale;
 import java.util.Scanner;
-import entidade1.PopulacaoBaratas;
+import Classes02.PopulacaoBaratas;
 
 public class SimulacaoCozinha {
     public static void main(String[] args) {
