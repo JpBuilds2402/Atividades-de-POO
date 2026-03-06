@@ -1,4 +1,4 @@
-import entidade1.Pessoa;
+import Classes01.Pessoa;
 import java.util.ArrayList;
 import java.util.Locale;
 import java.util.Scanner;
